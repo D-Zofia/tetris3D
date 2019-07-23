@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   move_time: 0.8
-  size: {x: 10, y: 19, z: 10}
+  size: {x: 9, y: 19, z: 9}
 --- !u!1 &8516691988699110458
 GameObject:
   m_ObjectHideFlags: 0
